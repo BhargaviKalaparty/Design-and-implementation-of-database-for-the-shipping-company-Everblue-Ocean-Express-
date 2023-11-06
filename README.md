@@ -1,4 +1,4 @@
-# Design-and-implementation-of-database-for-the-shipping-company-Everblue-Ocean-Express-
+# Design-and-implementation-of-database-for-the-shipping-company-Everblue-Ocean-Express
 
 # About:
 
