@@ -12,7 +12,12 @@ An entire ER model is designed, data base is created and populated, and querying
 
 •	Database is tested to ensure that the database meets the information requirements of the system.  
 
-# Contenta of Report:
+# ER- Diagram:
+
+![image](https://github.com/BhargaviKalaparty/Design-and-implementation-of-database-for-the-shipping-company-Everblue-Ocean-Express-/assets/149389777/7370265b-4048-41af-a0e2-ddd119fe90ae)
+
+
+# Contents of Report:
 
 Chapter 1: The Entity Relationship Diagram with constraints and assumptions.
 
